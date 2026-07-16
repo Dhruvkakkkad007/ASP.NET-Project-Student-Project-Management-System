@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SPM_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a3f9a3093e212bab20cdccef720ac057a51837")]
 [assembly: System.Reflection.AssemblyProductAttribute("SPM_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SPM_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
