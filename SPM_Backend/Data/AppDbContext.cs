@@ -11,44 +11,57 @@ namespace SPM_Backend.Data
         }
         public DbSet<SPM_User> Users => Set<SPM_User>();
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
+        public DbSet<SPM_Role> Roles => Set<SPM_Role>();
+
+        public DbSet<SPM_Status> Statuses => Set<SPM_Status>();
+
+        public DbSet<SPM_Priority> Priorities => Set<SPM_Priority>();
+
+        public DbSet<SPM_Project> Projects => Set<SPM_Project>();
+
+        public DbSet<SPM_Task> Tasks => Set<SPM_Task>();
+
+        public DbSet<SPM_UserRole> UserRoles => Set<SPM_UserRole>();
 
 
-            modelBuilder.Entity<SPM_User>(entity =>
-            {
-                entity.HasKey(e => e.UserId);
+    //    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    //    {
+    //        base.OnModelCreating(modelBuilder);
 
 
-                entity.Property(e => e.FullName)
-                .IsRequired()
-                .HasMaxLength(150);
+    //        modelBuilder.Entity<SPM_User>(entity =>
+    //        {
+    //            entity.HasKey(e => e.UserId);
 
 
-                entity.Property(e => e.Email)
-                .IsRequired()
-                .HasMaxLength(150);
-
-                entity.Property(e => e.Password)
-                .IsRequired();
-
-                entity.Property(e => e.MobileNumber)
-                .IsRequired()
-                .HasMaxLength(150);
-
-                entity.Property(e => e.ProfilePicturePath)
-                .IsRequired()
-                .HasMaxLength(150);
+    //            entity.Property(e => e.FullName)
+    //            .IsRequired()
+    //            .HasMaxLength(150);
 
 
-                entity.Property(e => e.IsActive)
-                .HasDefaultValue(true);
+    //            entity.Property(e => e.Email)
+    //            .IsRequired()
+    //            .HasMaxLength(150);
 
-                entity.Property(e => e.IsDeleted)
-                .HasDefaultValue(false);
-            }
-          );
-        }
+    //            entity.Property(e => e.Password)
+    //            .IsRequired();
+
+    //            entity.Property(e => e.MobileNumber)
+    //            .IsRequired()
+    //            .HasMaxLength(150);
+
+    //            entity.Property(e => e.ProfilePicturePath)
+    //            .IsRequired()
+    //            .HasMaxLength(150);
+
+
+    //            entity.Property(e => e.IsActive)
+    //            .HasDefaultValue(true);
+
+    //            entity.Property(e => e.IsDeleted)
+    //            .HasDefaultValue(false);
+    //        }
+    //      );
+    //    }
     }
 }

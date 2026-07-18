@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\prioritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\prioritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\models\\spm_userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:models\\spm_userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\models\\spm_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:models\\spm_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\models\\spm_priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:models\\spm_priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\models\\spm_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:models\\spm_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\models\\spm_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:models\\spm_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Migrations\\20260718153529_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260718153529_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\models\\spm_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:models\\spm_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\migrations\\20260709043724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:migrations\\20260709043724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\models\\spm_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:models\\spm_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\migrations\\20260709043724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|solutionrelative:migrations\\20260709043724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66C524A9-0004-C1B3-9F66-A420AD5AC42C}|SPM_Backend.csproj|d:\\sem 5\\asp.net project student project management system\\spm_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,37 +86,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20260709043724_InitialCreate.cs",
-              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Migrations\\20260709043724_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260709043724_InitialCreate.cs",
-              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Migrations\\20260709043724_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260709043724_InitialCreate.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T04:37:25.093Z",
+              "WhenOpened": "2026-07-18T15:57:17.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:56:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:55:26.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRoleController.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "Controllers\\UserRoleController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:54:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriorityController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\PriorityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PriorityController.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\PriorityController.cs",
+              "RelativeToolTip": "Controllers\\PriorityController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:53:38.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatusController.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Controllers\\StatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:52:04.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SPM_Task.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Task.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_Task.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Task.cs",
+              "RelativeToolTip": "Models\\SPM_Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:28:35.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SPM_Project.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Project.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_Project.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Project.cs",
+              "RelativeToolTip": "Models\\SPM_Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:27:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SPM_Priority.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Priority.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_Priority.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Priority.cs",
+              "RelativeToolTip": "Models\\SPM_Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:27:21.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SPM_Status.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Status.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_Status.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Status.cs",
+              "RelativeToolTip": "Models\\SPM_Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:26:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SPM_UserRole.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_UserRole.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_UserRole.cs",
+              "RelativeToolTip": "Models\\SPM_UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:25:50.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T18:06:16.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T18:18:50.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
+              "Title": "20260718153529_Initial.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Migrations\\20260718153529_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260718153529_Initial.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Migrations\\20260718153529_Initial.cs",
+              "RelativeToolTip": "Migrations\\20260718153529_Initial.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:35:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SPM_User.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_User.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_User.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_User.cs",
+              "RelativeToolTip": "Models\\SPM_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T18:00:10.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SPM_Role.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Role.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_Role.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_Role.cs",
+              "RelativeToolTip": "Models\\SPM_Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:25:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260709043724_InitialCreate.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Migrations\\20260709043724_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260709043724_InitialCreate.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Migrations\\20260709043724_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260709043724_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:37:25.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -72,11 +319,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T18:15:57.455Z"
+              "WhenOpened": "2026-07-08T18:15:57.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -84,32 +332,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-08T18:13:54.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T18:06:16.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SPM_User.cs",
-              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_User.cs",
-              "RelativeDocumentMoniker": "Models\\SPM_User.cs",
-              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPM_Backend\\Models\\SPM_User.cs",
-              "RelativeToolTip": "Models\\SPM_User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T18:00:10.11Z",
+              "WhenOpened": "2026-07-08T18:13:54.3Z",
               "EditorCaption": ""
             }
           ]

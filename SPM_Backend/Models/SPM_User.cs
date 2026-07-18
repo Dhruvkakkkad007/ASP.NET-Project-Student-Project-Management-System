@@ -4,7 +4,7 @@ namespace SPM_Backend.Models
 {
     public class SPM_User
     {
-        
+        [Key]
         public int UserId { get; set; }
 
         
