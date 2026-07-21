@@ -6,7 +6,11 @@ namespace SPM_Backend.Models
     {
         [Key]
         public int RoleId { get; set; }
-        public string RoleName { get; set; }
+
+        
+        public string? RoleName { get; set; }
+
+        [Required]
         public string? Description { get; set; }
     }
 }

@@ -50,7 +50,7 @@ namespace SPM_Backend.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateTask(SPM_Task task, int id)
         {
-            if (id != task.TaskId)
+            if (id != task.TaskID)
             {
                 return BadRequest();
             }

@@ -39,7 +39,7 @@ namespace SPM_Backend.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddStatus(SPM_Status status)
+        public async Task<IActionResult> AddStatus(SPM_TaskStatus status)
         {
             _context.Statuses.Add(status);
             await _context.SaveChangesAsync();
@@ -48,9 +48,9 @@ namespace SPM_Backend.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateStatus(SPM_Status status, int id)
+        public async Task<IActionResult> UpdateStatus(SPM_TaskStatus status, int id)
         {
-            if (id != status.StatusID)
+            if (id != status.TaskStatusID)
             {
                 return BadRequest();
             }

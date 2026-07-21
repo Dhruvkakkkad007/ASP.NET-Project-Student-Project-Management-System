@@ -22,73 +22,66 @@ namespace SPM_Backend.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("SPM_Backend.Models.SPM_Priority", b =>
+            modelBuilder.Entity("SPM_Backend.Models.SPM_ProjectAllocation", b =>
                 {
-                    b.Property<int>("PriorityID")
+                    b.Property<int>("ProjectAllocationID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PriorityID"));
-
-                    b.Property<string>("PriorityCssClass")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PriorityName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("PriorityID");
-
-                    b.ToTable("Priorities");
-                });
-
-            modelBuilder.Entity("SPM_Backend.Models.SPM_Project", b =>
-                {
-                    b.Property<int>("ProjectId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjectId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjectAllocationID"));
 
                     b.Property<DateTime>("AssignedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("CompletedTasks")
+                    b.Property<int>("FacultyID")
                         .HasColumnType("int");
 
-                    b.Property<string>("Description")
+                    b.Property<string>("OverAllGrade")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("EndDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("FacultyId")
-                        .HasColumnType("int");
-
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
 
                     b.Property<decimal>("ProgressPercentage")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int>("ProjectStatus")
+                    b.Property<DateTime>("ProjectEndDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("ProjectID")
                         .HasColumnType("int");
 
-                    b.Property<string>("ProjectTitle")
+                    b.Property<DateTime>("ProjectStartDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("StudentID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TotalCompletedTasks")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TotalTasksGiven")
+                        .HasColumnType("int");
+
+                    b.HasKey("ProjectAllocationID");
+
+                    b.ToTable("ProjectAllocations");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_ProjectMaster", b =>
+                {
+                    b.Property<int>("ProjectID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjectID"));
+
+                    b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("StartDate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("ProjectTitle")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("StudentId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("TotalTasks")
-                        .HasColumnType("int");
-
-                    b.HasKey("ProjectId");
+                    b.HasKey("ProjectID");
 
                     b.ToTable("Projects");
                 });
@@ -102,10 +95,10 @@ namespace SPM_Backend.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RoleId"));
 
                     b.Property<string>("Description")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RoleName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("RoleId");
@@ -113,118 +106,142 @@ namespace SPM_Backend.Migrations
                     b.ToTable("Roles");
                 });
 
-            modelBuilder.Entity("SPM_Backend.Models.SPM_Status", b =>
-                {
-                    b.Property<int>("StatusID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("StatusID"));
-
-                    b.Property<string>("StatusCssClass")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("StatusName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("StatusID");
-
-                    b.ToTable("Statuses");
-                });
-
             modelBuilder.Entity("SPM_Backend.Models.SPM_Task", b =>
                 {
-                    b.Property<int>("TaskId")
+                    b.Property<int>("TaskID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TaskId"));
-
-                    b.Property<int>("AllocationID")
-                        .HasColumnType("int");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TaskID"));
 
                     b.Property<decimal>("AssignedScore")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<DateTime?>("CompletedDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime?>("DueDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<decimal?>("EarnedScore")
+                    b.Property<decimal>("EarnedScore")
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("FacultyRemarks")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
-
-                    b.Property<int>("PriorityID")
-                        .HasColumnType("int");
+                    b.Property<DateTime>("NextFollowUpDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<decimal>("ProgressPercentage")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<DateTime?>("StartDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("StudentRemarks")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("TaskDescription")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("TaskStatus")
+                    b.Property<int>("ProjectAllocationID")
                         .HasColumnType("int");
 
-                    b.Property<string>("TaskTitle")
+                    b.Property<string>("StudentRemarks")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("TaskId");
+                    b.Property<DateTime>("TaskAssignedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("TaskCompletedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("TaskDescription")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("TaskDueDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("TaskPriorityID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("TaskStartDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("TaskStatusID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("TaskTitle")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("TaskID");
 
                     b.ToTable("Tasks");
                 });
 
-            modelBuilder.Entity("SPM_Backend.Models.SPM_User", b =>
+            modelBuilder.Entity("SPM_Backend.Models.SPM_TaskPriority", b =>
                 {
-                    b.Property<int>("UserId")
+                    b.Property<int>("TaskPriorityID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TaskPriorityID"));
+
+                    b.Property<string>("TaskPriorityCssClass")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("TaskPriorityName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("TaskPriorityID");
+
+                    b.ToTable("TaskPriorities");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_TaskStatus", b =>
+                {
+                    b.Property<int>("TaskStatusID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TaskStatusID"));
+
+                    b.Property<string>("TaskStatusCssClass")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("TaskStatusName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("TaskStatusID");
+
+                    b.ToTable("Statuses");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_User", b =>
+                {
+                    b.Property<int>("UserID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserID"));
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("FullName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("IsActive")
                         .HasColumnType("bit");
 
-                    b.Property<bool?>("IsDeleted")
+                    b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
                     b.Property<string>("MobileNumber")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Password")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ProfilePicturePath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserCode")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("UserId");
+                    b.Property<int>("UserTypeID")
+                        .HasColumnType("int");
+
+                    b.HasKey("UserID");
 
                     b.ToTable("Users");
                 });

@@ -13,15 +13,17 @@ namespace SPM_Backend.Data
 
         public DbSet<SPM_Role> Roles => Set<SPM_Role>();
 
-        public DbSet<SPM_Status> Statuses => Set<SPM_Status>();
+        public DbSet<SPM_TaskStatus> Statuses => Set<SPM_TaskStatus>();
 
-        public DbSet<SPM_Priority> Priorities => Set<SPM_Priority>();
+        public DbSet<SPM_TaskPriority> TaskPriorities => Set<SPM_TaskPriority>();
 
-        public DbSet<SPM_Project> Projects => Set<SPM_Project>();
+        public DbSet<SPM_ProjectMaster> Projects => Set<SPM_ProjectMaster>();
 
         public DbSet<SPM_Task> Tasks => Set<SPM_Task>();
 
         public DbSet<SPM_UserRole> UserRoles => Set<SPM_UserRole>();
+
+        public DbSet<SPM_ProjectAllocation> ProjectAllocations => Set<SPM_ProjectAllocation>();
 
 
     //    protected override void OnModelCreating(ModelBuilder modelBuilder)

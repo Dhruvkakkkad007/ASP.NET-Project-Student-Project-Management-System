@@ -39,7 +39,7 @@ namespace SPM_Backend.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddProject(SPM_Project project)
+        public async Task<IActionResult> AddProject(SPM_ProjectMaster project)
         {
             _context.Projects.Add(project);
             await _context.SaveChangesAsync();
@@ -48,9 +48,9 @@ namespace SPM_Backend.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateProject(SPM_Project project, int id)
+        public async Task<IActionResult> UpdateProject(SPM_ProjectMaster project, int id)
         {
-            if (id != project.ProjectId)
+            if (id != project.ProjectID)
             {
                 return BadRequest();
             }

@@ -54,7 +54,7 @@ namespace SPM_Backend.Controllers
 
         public async Task<IActionResult> UpdateUser(SPM_User user, int id)
         {
-            if (id != user.UserId)
+            if (id != user.UserID)
             {
                 return BadRequest();
             }

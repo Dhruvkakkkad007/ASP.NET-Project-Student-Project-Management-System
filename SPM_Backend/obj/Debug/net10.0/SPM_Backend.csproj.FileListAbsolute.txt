@@ -143,6 +143,7 @@ D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.csproj.CoreCompileInputs.cache
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.MvcApplicationPartsAssemblyInfo.cs
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.sourcelink.json
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -159,4 +160,3 @@ D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.pdb
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.genruntimeconfig.cache
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\ref\SPM_Backend.dll
-D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.sourcelink.json
