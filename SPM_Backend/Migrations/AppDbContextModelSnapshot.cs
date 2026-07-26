@@ -26,243 +26,482 @@ namespace SPM_Backend.Migrations
                 {
                     b.Property<int>("ProjectAllocationID")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("ProjectAllocationID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjectAllocationID"));
 
                     b.Property<DateTime>("AssignedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("AssignedDate");
 
                     b.Property<int>("FacultyID")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("FacultyID");
 
                     b.Property<string>("OverAllGrade")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(1)
+                        .HasColumnType("nvarchar(1)")
+                        .HasColumnName("OverAllGrade");
 
                     b.Property<decimal>("ProgressPercentage")
-                        .HasColumnType("decimal(18,2)");
+                        .HasColumnType("decimal(5,2)")
+                        .HasColumnName("ProgressPercentage");
 
                     b.Property<DateTime>("ProjectEndDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("ProjectEndDate");
 
                     b.Property<int>("ProjectID")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("ProjectID");
 
                     b.Property<DateTime>("ProjectStartDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("ProjectStartDate");
 
                     b.Property<int>("StudentID")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("StudentID");
 
                     b.Property<int>("TotalCompletedTasks")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("TotalCompletedTasks");
 
                     b.Property<int>("TotalTasksGiven")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("TotalTasksGiven");
 
                     b.HasKey("ProjectAllocationID");
 
-                    b.ToTable("ProjectAllocations");
+                    b.HasIndex("FacultyID");
+
+                    b.HasIndex("ProjectID");
+
+                    b.HasIndex("StudentID");
+
+                    b.ToTable("SPM_ProjectAllocation", (string)null);
                 });
 
             modelBuilder.Entity("SPM_Backend.Models.SPM_ProjectMaster", b =>
                 {
                     b.Property<int>("ProjectID")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("ProjectID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjectID"));
 
                     b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Description");
 
                     b.Property<string>("ProjectTitle")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)")
+                        .HasColumnName("ProjectTitle");
 
                     b.HasKey("ProjectID");
 
-                    b.ToTable("Projects");
+                    b.ToTable("SPM_ProjectMaster", (string)null);
                 });
 
             modelBuilder.Entity("SPM_Backend.Models.SPM_Role", b =>
                 {
                     b.Property<int>("RoleId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("RoleID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RoleId"));
 
                     b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
+                        .HasColumnName("Description");
 
                     b.Property<string>("RoleName")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)")
+                        .HasColumnName("RoleName");
 
                     b.HasKey("RoleId");
 
-                    b.ToTable("Roles");
+                    b.ToTable("SPM_Role", (string)null);
                 });
 
             modelBuilder.Entity("SPM_Backend.Models.SPM_Task", b =>
                 {
                     b.Property<int>("TaskID")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("TaskID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TaskID"));
 
                     b.Property<decimal>("AssignedScore")
-                        .HasColumnType("decimal(18,2)");
+                        .HasColumnType("decimal(5,2)")
+                        .HasColumnName("AssignedScore");
 
-                    b.Property<decimal>("EarnedScore")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<decimal?>("EarnedScore")
+                        .HasColumnType("decimal(5,2)")
+                        .HasColumnName("EarnedScore");
 
                     b.Property<string>("FacultyRemarks")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)")
+                        .HasColumnName("FacultyRemarks");
 
-                    b.Property<DateTime>("NextFollowUpDate")
-                        .HasColumnType("datetime2");
+                    b.Property<DateTime?>("NextFollowUpDate")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("NextFollowUpDate");
 
                     b.Property<decimal>("ProgressPercentage")
-                        .HasColumnType("decimal(18,2)");
+                        .HasColumnType("decimal(5,2)")
+                        .HasColumnName("ProgressPercentage");
 
                     b.Property<int>("ProjectAllocationID")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("ProjectAllocationID");
 
                     b.Property<string>("StudentRemarks")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)")
+                        .HasColumnName("StudentRemarks");
 
                     b.Property<DateTime>("TaskAssignedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("TaskAssignedDate");
 
-                    b.Property<DateTime>("TaskCompletedDate")
-                        .HasColumnType("datetime2");
+                    b.Property<DateTime?>("TaskCompletedDate")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("TaskCompletedDate");
 
                     b.Property<string>("TaskDescription")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("TaskDescription");
 
-                    b.Property<DateTime>("TaskDueDate")
-                        .HasColumnType("datetime2");
+                    b.Property<DateTime?>("TaskDueDate")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("TaskDueDate");
 
                     b.Property<int>("TaskPriorityID")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("TaskPriorityID");
 
-                    b.Property<DateTime>("TaskStartDate")
-                        .HasColumnType("datetime2");
+                    b.Property<DateTime?>("TaskStartDate")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("TaskStartDate");
 
                     b.Property<int>("TaskStatusID")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("TaskStatusID");
 
                     b.Property<string>("TaskTitle")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)")
+                        .HasColumnName("TaskTitle");
 
                     b.HasKey("TaskID");
 
-                    b.ToTable("Tasks");
+                    b.HasIndex("ProjectAllocationID");
+
+                    b.HasIndex("TaskPriorityID");
+
+                    b.HasIndex("TaskStatusID");
+
+                    b.ToTable("SPM_Task", (string)null);
                 });
 
             modelBuilder.Entity("SPM_Backend.Models.SPM_TaskPriority", b =>
                 {
                     b.Property<int>("TaskPriorityID")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("TaskPriorityID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TaskPriorityID"));
 
                     b.Property<string>("TaskPriorityCssClass")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("TaskPriortyCssClass");
 
                     b.Property<string>("TaskPriorityName")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("TaskPriorityName");
 
                     b.HasKey("TaskPriorityID");
 
-                    b.ToTable("TaskPriorities");
+                    b.ToTable("SPM_TaskPriority", (string)null);
                 });
 
             modelBuilder.Entity("SPM_Backend.Models.SPM_TaskStatus", b =>
                 {
                     b.Property<int>("TaskStatusID")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("TaskStatusID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TaskStatusID"));
 
                     b.Property<string>("TaskStatusCssClass")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)")
+                        .HasColumnName("TaskStatusCssClass");
 
                     b.Property<string>("TaskStatusName")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("TaskStatusName");
 
                     b.HasKey("TaskStatusID");
 
-                    b.ToTable("Statuses");
+                    b.ToTable("SPM_TaskStatus", (string)null);
                 });
 
             modelBuilder.Entity("SPM_Backend.Models.SPM_User", b =>
                 {
                     b.Property<int>("UserID")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("UserID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserID"));
 
                     b.Property<string>("Email")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)")
+                        .HasColumnName("Email");
 
                     b.Property<string>("FullName")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)")
+                        .HasColumnName("FullName");
 
                     b.Property<bool>("IsActive")
-                        .HasColumnType("bit");
+                        .HasColumnType("bit")
+                        .HasColumnName("IsActive");
 
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
+                    b.Property<bool?>("IsDeleted")
+                        .HasColumnType("bit")
+                        .HasColumnName("IsDeleted");
 
                     b.Property<string>("MobileNumber")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)")
+                        .HasColumnName("MobileNumber");
 
                     b.Property<string>("Password")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Password");
 
                     b.Property<string>("ProfilePicturePath")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)")
+                        .HasColumnName("ProfilePicturePath");
 
                     b.Property<string>("UserCode")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)")
+                        .HasColumnName("UserCode");
 
                     b.Property<int>("UserTypeID")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("UserTypeID");
 
                     b.HasKey("UserID");
 
-                    b.ToTable("Users");
+                    b.HasIndex("UserTypeID");
+
+                    b.ToTable("SPM_User", (string)null);
                 });
 
             modelBuilder.Entity("SPM_Backend.Models.SPM_UserRole", b =>
                 {
                     b.Property<int>("RolePermissionId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("RolePermissionID");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RolePermissionId"));
 
                     b.Property<int>("RoleId")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("RoleID");
 
                     b.Property<int>("UserId")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("UserID");
 
                     b.HasKey("RolePermissionId");
 
-                    b.ToTable("UserRoles");
+                    b.HasIndex("RoleId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("SPM_UserRole", (string)null);
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_UserType", b =>
+                {
+                    b.Property<int>("UserTypeID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("UserTypeID");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserTypeID"));
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
+                        .HasColumnName("Description");
+
+                    b.Property<string>("UserTypeName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)")
+                        .HasColumnName("UserTypeName");
+
+                    b.HasKey("UserTypeID");
+
+                    b.ToTable("SPM_UserType", (string)null);
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_ProjectAllocation", b =>
+                {
+                    b.HasOne("SPM_Backend.Models.SPM_User", "Faculty")
+                        .WithMany("FacultyAllocations")
+                        .HasForeignKey("FacultyID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SPM_Backend.Models.SPM_ProjectMaster", "Project")
+                        .WithMany("ProjectAllocations")
+                        .HasForeignKey("ProjectID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SPM_Backend.Models.SPM_User", "Student")
+                        .WithMany("StudentAllocations")
+                        .HasForeignKey("StudentID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Faculty");
+
+                    b.Navigation("Project");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_Task", b =>
+                {
+                    b.HasOne("SPM_Backend.Models.SPM_ProjectAllocation", "ProjectAllocation")
+                        .WithMany("Tasks")
+                        .HasForeignKey("ProjectAllocationID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SPM_Backend.Models.SPM_TaskPriority", "TaskPriority")
+                        .WithMany("Tasks")
+                        .HasForeignKey("TaskPriorityID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SPM_Backend.Models.SPM_TaskStatus", "TaskStatus")
+                        .WithMany("Tasks")
+                        .HasForeignKey("TaskStatusID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ProjectAllocation");
+
+                    b.Navigation("TaskPriority");
+
+                    b.Navigation("TaskStatus");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_User", b =>
+                {
+                    b.HasOne("SPM_Backend.Models.SPM_UserType", "UserType")
+                        .WithMany("Users")
+                        .HasForeignKey("UserTypeID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("UserType");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_UserRole", b =>
+                {
+                    b.HasOne("SPM_Backend.Models.SPM_Role", "Role")
+                        .WithMany("UserRoles")
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SPM_Backend.Models.SPM_User", "User")
+                        .WithMany("UserRoles")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Role");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_ProjectAllocation", b =>
+                {
+                    b.Navigation("Tasks");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_ProjectMaster", b =>
+                {
+                    b.Navigation("ProjectAllocations");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_Role", b =>
+                {
+                    b.Navigation("UserRoles");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_TaskPriority", b =>
+                {
+                    b.Navigation("Tasks");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_TaskStatus", b =>
+                {
+                    b.Navigation("Tasks");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_User", b =>
+                {
+                    b.Navigation("FacultyAllocations");
+
+                    b.Navigation("StudentAllocations");
+
+                    b.Navigation("UserRoles");
+                });
+
+            modelBuilder.Entity("SPM_Backend.Models.SPM_UserType", b =>
+                {
+                    b.Navigation("Users");
                 });
 #pragma warning restore 612, 618
         }

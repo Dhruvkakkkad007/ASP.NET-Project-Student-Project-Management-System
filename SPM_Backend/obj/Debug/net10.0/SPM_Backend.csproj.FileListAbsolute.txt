@@ -153,10 +153,10 @@ D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\staticwebassets.development.json
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\swae.build.ex.cache
-D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Back.0E717233.Up2Date
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.dll
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\refint\SPM_Backend.dll
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.pdb
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\SPM_Backend.genruntimeconfig.cache
 D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\ref\SPM_Backend.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPM_Backend\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
