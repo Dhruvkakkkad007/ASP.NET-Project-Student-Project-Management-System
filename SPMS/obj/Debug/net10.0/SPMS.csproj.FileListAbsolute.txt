@@ -1,0 +1,943 @@
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\appsettings.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\SPMS.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\SPMS.exe
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\SPMS.deps.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\SPMS.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\SPMS.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\SPMS.pdb
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Humanizer.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\scopedcss\bundle\SPMS.styles.css
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.csproj.Up2Date
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\refint\SPMS.dll
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.pdb
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\SPMS.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder (2)\SPMS\obj\Debug\net10.0\ref\SPMS.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\appsettings.json
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\SPMS.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\SPMS.exe
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\SPMS.deps.json
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\SPMS.runtimeconfig.json
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\SPMS.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\SPMS.pdb
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Humanizer.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\SPMS\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\scopedcss\bundle\SPMS.styles.css
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.csproj.Up2Date
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.dll
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\refint\SPMS.dll
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.pdb
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\SPMS.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\ref\SPMS.dll
+C:\Users\ASUS\Desktop\SPMS\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\appsettings.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\SPMS.staticwebassets.endpoints.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\SPMS.exe
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\SPMS.deps.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\SPMS.runtimeconfig.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\SPMS.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\SPMS.pdb
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Humanizer.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.csproj.AssemblyReference.cache
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfoInputs.cache
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfo.cs
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.csproj.CoreCompileInputs.cache
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\scopedcss\bundle\SPMS.styles.css
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.csproj.Up2Date
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\refint\SPMS.dll
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.pdb
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\SPMS.genruntimeconfig.cache
+C:\Users\V I C T U S\Downloads\SPMS\SPMS\obj\Debug\net10.0\ref\SPMS.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\appsettings.Development.json
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\appsettings.json
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\SPMS.staticwebassets.endpoints.json
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\SPMS.exe
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\SPMS.deps.json
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\SPMS.runtimeconfig.json
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\SPMS.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\SPMS.pdb
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Azure.Core.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Azure.Identity.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Humanizer.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.ClientModel.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.CodeDom.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Memory.Data.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\Backend\SPMS\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.csproj.AssemblyReference.cache
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfoInputs.cache
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfo.cs
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.csproj.CoreCompileInputs.cache
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cs
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\scopedcss\bundle\SPMS.styles.css
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\staticwebassets.build.json
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\staticwebassets.development.json
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\swae.build.ex.cache
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.csproj.Up2Date
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.dll
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\refint\SPMS.dll
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.pdb
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\SPMS.genruntimeconfig.cache
+D:\SEM 5\Backend\SPMS\obj\Debug\net10.0\ref\SPMS.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\appsettings.Development.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\appsettings.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\SPMS.staticwebassets.endpoints.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\SPMS.exe
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\SPMS.deps.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\SPMS.runtimeconfig.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\SPMS.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\SPMS.pdb
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Azure.Core.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Azure.Identity.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Humanizer.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.ClientModel.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.CodeDom.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Memory.Data.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.csproj.AssemblyReference.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfoInputs.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.AssemblyInfo.cs
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.csproj.CoreCompileInputs.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cs
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.sourcelink.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\scopedcss\bundle\SPMS.styles.css
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\staticwebassets.build.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\staticwebassets.development.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\swae.build.ex.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.csproj.Up2Date
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\refint\SPMS.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.pdb
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\SPMS.genruntimeconfig.cache
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\ref\SPMS.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\FluentValidation.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\appsettings.Development.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\appsettings.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\SPMS.staticwebassets.endpoints.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\SPMS.exe
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\SPMS.deps.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\SPMS.runtimeconfig.json
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\SPMS.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\SPMS.pdb
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Azure.Core.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Azure.Identity.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\FluentValidation.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\FluentValidation.AspNetCore.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\FluentValidation.DependencyInjectionExtensions.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Humanizer.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.AspNetCore.OpenApi.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.Bcl.Cryptography.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.Build.Framework.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.CodeAnalysis.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.Data.SqlClient.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.EntityFrameworkCore.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.Extensions.DependencyModel.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.Identity.Client.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.IdentityModel.Abstractions.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.IdentityModel.Logging.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.IdentityModel.Protocols.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.IdentityModel.Tokens.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.OpenApi.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.SqlServer.Server.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Mono.TextTemplating.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Newtonsoft.Json.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\Scalar.AspNetCore.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.ClientModel.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.CodeDom.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Composition.AttributedModel.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Composition.Convention.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Composition.Hosting.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Composition.Runtime.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Composition.TypedParts.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Configuration.ConfigurationManager.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.IdentityModel.Tokens.Jwt.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Memory.Data.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\System.Security.Cryptography.ProtectedData.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\de\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\es\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\it\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\cs\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\de\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\es\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\fr\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\it\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ja\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ko\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pl\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\ru\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\tr\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug_Test\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SEM 5\ASP.NET Project Student Project Management System\SPMS\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
