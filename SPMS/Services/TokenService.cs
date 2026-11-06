@@ -16,16 +16,20 @@ namespace SPMS.Services
 
         public string GenerateToken(User user)
         {
-         
             var claims = new List<Claim>
             {
                 new Claim(JwtRegisteredClaimNames.Sub, user.Email),
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim("userId", user.UserId.ToString()),
+                new Claim("email", user.Email ?? string.Empty),
+                new Claim("fullName", user.FullName ?? string.Empty),
+                new Claim("profilePicturePath", user.ProfilePicturePath ?? string.Empty)
             };
 
             if (user.UserType != null && !string.IsNullOrEmpty(user.UserType.UserTypeName))
             {
                 claims.Add(new Claim(ClaimTypes.Role, user.UserType.UserTypeName));
+                claims.Add(new Claim("role", user.UserType.UserTypeName));
             }
 
             var key = new SymmetricSecurityKey(
@@ -33,7 +37,6 @@ namespace SPMS.Services
             );
             var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
-           
             var token = new JwtSecurityToken(
                 issuer: _config["Jwt:Issuer"],
                 audience: _config["Jwt:Audience"],

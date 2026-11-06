@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\controllers\\taskstatusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|solutionrelative:controllers\\taskstatusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\controllers\\projectallocationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E059353-25CB-8416-069D-FE5795D66EE4}|SPMS.csproj|d:\\sem 5\\asp.net project student project management system\\spms\\controllers\\projecttaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,24 +89,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Services\\TokenService.cs",
-              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Services\\TokenService.cs*",
-              "RelativeToolTip": "Services\\TokenService.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowBsAAAA7AAAAAAAAAA==",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T07:24:34.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProjectAllocationsController.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\ProjectAllocationsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectAllocationsController.cs",
@@ -114,25 +114,11 @@
               "RelativeToolTip": "Controllers\\ProjectAllocationsController.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAgwI0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T06:54:25.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T06:54:25.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRolesController.cs",
-              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\UserRolesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserRolesController.cs",
-              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\UserRolesController.cs",
-              "RelativeToolTip": "Controllers\\UserRolesController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAwDEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T07:02:56.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TaskStatusesController.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\TaskStatusesController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskStatusesController.cs",
@@ -140,12 +126,11 @@
               "RelativeToolTip": "Controllers\\TaskStatusesController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T07:32:04.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T07:32:04.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -153,12 +138,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAUwDEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T03:12:10.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-17T03:12:10.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -166,12 +150,36 @@
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAYwE8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T04:26:27.913Z",
+              "WhenOpened": "2026-07-28T04:26:27.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T03:11:20.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRolesController.cs",
+              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "Controllers\\UserRolesController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:02:56.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CommonResponse.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Common\\CommonResponse.cs",
               "RelativeDocumentMoniker": "Common\\CommonResponse.cs",
@@ -179,12 +187,11 @@
               "RelativeToolTip": "Common\\CommonResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T07:31:24.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T07:31:24.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RolesController.cs",
               "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
@@ -192,20 +199,7 @@
               "RelativeToolTip": "Controllers\\RolesController.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAswHcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T06:46:18.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T03:11:20.871Z"
+              "WhenOpened": "2026-07-29T06:46:18.766Z"
             },
             {
               "$type": "Document",

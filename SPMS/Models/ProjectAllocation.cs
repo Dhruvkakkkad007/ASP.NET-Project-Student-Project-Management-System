@@ -11,7 +11,7 @@ namespace SPMS
         public long ProjectAllocationId { get; set; }
 
         [ForeignKey("Project")]
-        public long ProjectId { get; set; }
+        public long? ProjectId { get; set; }
 
         [JsonIgnore]
         public ProjectMaster? Project { get; set; }
@@ -46,7 +46,7 @@ namespace SPMS
         [Precision(5, 2)]
         public decimal ProgressPercentage { get; set; }
 
-        [MaxLength(1)]
+        [MaxLength(10)]
         public string? OverAllGrade { get; set; }
 
 

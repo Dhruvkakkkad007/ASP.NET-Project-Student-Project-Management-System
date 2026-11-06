@@ -28,6 +28,8 @@ namespace SPMS.Data
 
         public DbSet<ProjectTask> Tasks { get; set; } = null!;
 
+        public DbSet<ProjectSwitchRequest> ProjectSwitchRequests { get; set; } = null!;
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -112,7 +114,8 @@ namespace SPMS.Data
                 entity.HasMany(e => e.ProjectAllocations)
                     .WithOne(e => e.Project)
                     .HasForeignKey(e => e.ProjectId)
-                    .OnDelete(DeleteBehavior.Cascade);
+                    .IsRequired(false)
+                    .OnDelete(DeleteBehavior.SetNull);
             });
 
             modelBuilder.Entity<ProjectAllocation>(entity =>
@@ -125,7 +128,8 @@ namespace SPMS.Data
                 entity.HasOne(e => e.Project)
                     .WithMany(e => e.ProjectAllocations)
                     .HasForeignKey(e => e.ProjectId)
-                    .OnDelete(DeleteBehavior.Cascade);
+                    .IsRequired(false)
+                    .OnDelete(DeleteBehavior.SetNull);
 
                 entity.HasOne(e => e.Student)
                     .WithMany(e => e.StudentProjectAllocations)
@@ -161,6 +165,41 @@ namespace SPMS.Data
                     .WithMany(e => e.Tasks)
                     .HasForeignKey(e => e.TaskPriorityId)
                     .OnDelete(DeleteBehavior.Restrict);
+            });
+
+            modelBuilder.Entity<ProjectSwitchRequest>(entity =>
+            {
+                entity.ToTable("SPM_ProjectSwitchRequest");
+
+                entity.Property(e => e.Status)
+                    .HasMaxLength(20)
+                    .HasDefaultValue("Pending");
+
+                entity.HasOne(e => e.ProjectAllocation)
+                    .WithMany()
+                    .HasForeignKey(e => e.ProjectAllocationId)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasOne(e => e.Student)
+                    .WithMany()
+                    .HasForeignKey(e => e.StudentId)
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                entity.HasOne(e => e.Faculty)
+                    .WithMany()
+                    .HasForeignKey(e => e.FacultyId)
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                entity.HasOne(e => e.CurrentProject)
+                    .WithMany()
+                    .HasForeignKey(e => e.CurrentProjectId)
+                    .IsRequired(false)
+                    .OnDelete(DeleteBehavior.NoAction);
+
+                entity.HasOne(e => e.RequestedProject)
+                    .WithMany()
+                    .HasForeignKey(e => e.RequestedProjectId)
+                    .OnDelete(DeleteBehavior.NoAction);
             });
         }
     }

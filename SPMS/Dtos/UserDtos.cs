@@ -5,6 +5,7 @@ namespace SPMS.Dtos
     public class UserCreateDto
     {
         public int UserTypeId { get; set; }
+        public string? UserTypeName { get; set; }
         public string FullName { get; set; } = null!;
         public string? UserCode { get; set; }
         public string Email { get; set; } = null!;
@@ -18,6 +19,7 @@ namespace SPMS.Dtos
     public class UserUpdateDto
     {
         public int UserTypeId { get; set; }
+        public string? UserTypeName { get; set; }
         public string FullName { get; set; } = null!;
         public string? UserCode { get; set; }
         public string Email { get; set; } = null!;
@@ -46,5 +48,23 @@ namespace SPMS.Dtos
     {
         public string Email { get; set; } = null!;
         public string Password { get; set; } = null!;
+    }
+
+    public class ProfileUpdateDto
+    {
+        public string FullName { get; set; } = null!;
+        public string MobileNumber { get; set; } = null!;
+    }
+
+    public class ChangePasswordDto
+    {
+        public string CurrentPassword { get; set; } = null!;
+        public string NewPassword { get; set; } = null!;
+    }
+
+    public class ProfileSaveResultDto
+    {
+        public UserDto User { get; set; } = null!;
+        public string Token { get; set; } = null!;
     }
 }

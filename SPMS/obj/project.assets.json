@@ -3374,7 +3374,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\V I C T U S\\.nuget\\packages\\": {},
+    "C:\\Users\\V I C T U S\\AppData\\Local\\Temp\\cursor-sandbox-cache\\44e9ada59b5c498d825e72643ef0b66d\\nuget": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -3383,7 +3383,7 @@
       "projectUniqueName": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\SPMS.csproj",
       "projectName": "SPMS",
       "projectPath": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\SPMS.csproj",
-      "packagesPath": "C:\\Users\\V I C T U S\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\V I C T U S\\AppData\\Local\\Temp\\cursor-sandbox-cache\\44e9ada59b5c498d825e72643ef0b66d\\nuget",
       "outputPath": "D:\\SEM 5\\ASP.NET Project Student Project Management System\\SPMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -3910,5 +3910,27 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-846f-f764-76mx",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

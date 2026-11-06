@@ -146,6 +146,7 @@ namespace SPMS.Controllers
 
             _context.Tasks.Add(entity);
             await _context.SaveChangesAsync();
+            await SyncAllocationProgressAsync(entity.ProjectAllocationId);
 
             var created = await _context.Tasks.Include(t => t.TaskStatus).Include(t => t.TaskPriority).FirstOrDefaultAsync(t => t.TaskId == entity.TaskId);
 
@@ -211,6 +212,7 @@ namespace SPMS.Controllers
                 });
             }
 
+            long previousAllocId = existing.ProjectAllocationId;
             existing.ProjectAllocationId = dto.ProjectAllocationId;
             existing.TaskTitle = dto.TaskTitle;
             existing.TaskDescription = dto.TaskDescription;
@@ -228,6 +230,11 @@ namespace SPMS.Controllers
             existing.StudentRemarks = dto.StudentRemarks;
 
             await _context.SaveChangesAsync();
+            await SyncAllocationProgressAsync(existing.ProjectAllocationId);
+            if (previousAllocId != existing.ProjectAllocationId)
+            {
+                await SyncAllocationProgressAsync(previousAllocId);
+            }
 
             var updated = await _context.Tasks.Include(t => t.TaskStatus).Include(t => t.TaskPriority).FirstOrDefaultAsync(t => t.TaskId == id);
             var updatedDto = new ProjectTaskDto
@@ -280,8 +287,10 @@ namespace SPMS.Controllers
                 });
             }
 
+            long allocId = task.ProjectAllocationId;
             _context.Tasks.Remove(task);
             await _context.SaveChangesAsync();
+            await SyncAllocationProgressAsync(allocId);
 
             return Ok(new ApiResponse<object>
             {
@@ -290,6 +299,53 @@ namespace SPMS.Controllers
                 Data = null,
                 Errors = null
             });
+        }
+
+        private async Task SyncAllocationProgressAsync(long projectAllocationId)
+        {
+            try
+            {
+                var allocation = await _context.ProjectAllocations.FindAsync(projectAllocationId);
+                if (allocation == null) return;
+
+                var tasks = await _context.Tasks.Where(t => t.ProjectAllocationId == projectAllocationId).ToListAsync();
+                int total = tasks.Count;
+                int completed = tasks.Count(t => t.TaskStatusId == 3);
+
+                allocation.TotalTasksGiven = total;
+                allocation.TotalCompletedTasks = completed;
+
+                if (total == 0)
+                {
+                    allocation.ProgressPercentage = 0;
+                }
+                else
+                {
+                    decimal totalProg = 0m;
+                    foreach (var t in tasks)
+                    {
+                        if (t.TaskStatusId == 3)
+                        {
+                            totalProg += 100m;
+                        }
+                        else if (t.ProgressPercentage > 0)
+                        {
+                            totalProg += t.ProgressPercentage;
+                        }
+                        else if (t.TaskStatusId == 2)
+                        {
+                            totalProg += 50m;
+                        }
+                    }
+                    allocation.ProgressPercentage = Math.Round(totalProg / total, 2);
+                }
+
+                await _context.SaveChangesAsync();
+            }
+            catch
+            {
+                // Non-fatal logging if sync encounters temporary DB lock
+            }
         }
     }
 }

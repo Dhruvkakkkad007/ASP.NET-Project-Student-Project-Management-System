@@ -4,7 +4,7 @@ namespace SPMS.Dtos
 {
     public class ProjectAllocationCreateDto
     {
-        public long ProjectId { get; set; }
+        public long? ProjectId { get; set; }
         public long StudentId { get; set; }
         public long FacultyId { get; set; }
         public DateTime AssignedDate { get; set; }
@@ -18,7 +18,7 @@ namespace SPMS.Dtos
 
     public class ProjectAllocationUpdateDto
     {
-        public long ProjectId { get; set; }
+        public long? ProjectId { get; set; }
         public long StudentId { get; set; }
         public long FacultyId { get; set; }
         public DateTime AssignedDate { get; set; }
@@ -33,7 +33,7 @@ namespace SPMS.Dtos
     public class ProjectAllocationDto
     {
         public long ProjectAllocationId { get; set; }
-        public long ProjectId { get; set; }
+        public long? ProjectId { get; set; }
         public long StudentId { get; set; }
         public long FacultyId { get; set; }
         public DateTime AssignedDate { get; set; }
@@ -48,5 +48,7 @@ namespace SPMS.Dtos
         public string? ProjectTitle { get; set; }
         public string? StudentFullName { get; set; }
         public string? FacultyFullName { get; set; }
+        public string? StudentEmail { get; set; }
+        public string? FacultyEmail { get; set; }
     }
 }

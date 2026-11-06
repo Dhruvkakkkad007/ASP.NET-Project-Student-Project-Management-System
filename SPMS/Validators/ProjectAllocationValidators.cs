@@ -7,10 +7,7 @@ namespace SPMS.Validators
     {
         public ProjectAllocationCreateDtoValidator()
         {
-            RuleFor(x => x.ProjectId)
-                // Project ID is mandatory and must be greater than 0
-                .GreaterThan(0)
-                .WithMessage("Valid Project ID is required.");
+            // ProjectId is optional so the student can select a topic later.
 
             RuleFor(x => x.StudentId)
                 // Student ID is mandatory and must be greater than 0
@@ -72,10 +69,7 @@ namespace SPMS.Validators
     {
         public ProjectAllocationUpdateDtoValidator()
         {
-            RuleFor(x => x.ProjectId)
-                // Project ID is mandatory and must be greater than 0
-                .GreaterThan(0)
-                .WithMessage("Valid Project ID is required.");
+            // ProjectId is optional so the student can select a topic later.
 
             RuleFor(x => x.StudentId)
                 // Student ID is mandatory and must be greater than 0

@@ -27,6 +27,7 @@ namespace SPMS.Controllers
             _updateValidator = updateValidator;
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public async Task<ActionResult<ApiResponse<List<UserTypeDto>>>> GetAll()
         {
